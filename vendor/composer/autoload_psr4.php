@@ -6,5 +6,5 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Fathie\\ProjectFolder\\' => array($baseDir . '/src'),
+    'Cherif\\ArchitectureMvc\\' => array($baseDir . '/src'),
 );

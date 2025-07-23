@@ -1,15 +1,15 @@
 {
-    "name": "fathie/project_folder",
+    "name": "cherif/architecture_mvc",
     "autoload": {
         "psr-4": {
-            "Fathie\\ProjectFolder\\": "src/"
+            "Cherif\\ArchitectureMvc\\": "src/"
         }
     },
     "authors": [
         {
-            "name": "Fathie"
+            "name": "brahim1205",
+            "email": "sadiocheri11@gmail.com"
         }
     ],
-    "require": {},
-    "minimum-stability": "dev"
+    "require": {}
 }
