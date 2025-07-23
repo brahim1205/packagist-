@@ -11,12 +11,75 @@ class ComposerStaticInitcce85d82663650fa49648e30442b6b48
         array (
             'khalilouh\\miniframework\\' => 24,
         ),
+        'T' => 
+        array (
+            'Translate\\' => 10,
+        ),
+        'S' => 
+        array (
+            'Src\\' => 4,
+            'Service\\' => 8,
+        ),
+        'R' => 
+        array (
+            'Repository\\' => 11,
+        ),
+        'E' => 
+        array (
+            'Entity\\' => 7,
+        ),
+        'C' => 
+        array (
+            'Core\\' => 5,
+            'Controller\\' => 11,
+            'Config\\' => 7,
+        ),
+        'A' => 
+        array (
+            'App\\' => 4,
+        ),
     );
 
     public static $prefixDirsPsr4 = array (
         'khalilouh\\miniframework\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
+        ),
+        'Translate\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/app/translate',
+        ),
+        'Src\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/src',
+        ),
+        'Service\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/src/service',
+        ),
+        'Repository\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/src/repository',
+        ),
+        'Entity\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/src/entity',
+        ),
+        'Core\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/app/core',
+        ),
+        'Controller\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/src/controller',
+        ),
+        'Config\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/app/config',
+        ),
+        'App\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/app',
         ),
     );
 

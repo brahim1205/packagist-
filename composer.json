@@ -2,7 +2,15 @@
     "name": "khalilouh/miniframework",
     "autoload": {
         "psr-4": {
-            "khalilouh\\miniframework\\": "src/"
+            "khalil\\Src\\": "src/",
+            "khalil\\Controller\\": "src/controller/",
+            "khalil\\Entity\\": "src/entity/",
+            "khalil\\Repository\\": "src/repository/",
+            "khalil\\Service\\": "src/service/",
+            "khalil\\App\\": "app/",
+            "khalil\\Core\\": "app/core/",
+            "khalil\\Config\\": "app/config/",
+            "khalil\\Translate\\": "app/translate/"
         }
     },
     "authors": [

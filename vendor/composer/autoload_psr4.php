@@ -7,4 +7,13 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'khalilouh\\miniframework\\' => array($baseDir . '/src'),
+    'Translate\\' => array($baseDir . '/app/translate'),
+    'Src\\' => array($baseDir . '/src'),
+    'Service\\' => array($baseDir . '/src/service'),
+    'Repository\\' => array($baseDir . '/src/repository'),
+    'Entity\\' => array($baseDir . '/src/entity'),
+    'Core\\' => array($baseDir . '/app/core'),
+    'Controller\\' => array($baseDir . '/src/controller'),
+    'Config\\' => array($baseDir . '/app/config'),
+    'App\\' => array($baseDir . '/app'),
 );
