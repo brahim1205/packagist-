@@ -1,0 +1,15 @@
+{
+    "name": "fathie/project_folder",
+    "autoload": {
+        "psr-4": {
+            "Fathie\\ProjectFolder\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Fathie"
+        }
+    ],
+    "require": {},
+    "minimum-stability": "dev"
+}
