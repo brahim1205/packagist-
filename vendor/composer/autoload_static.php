@@ -9,12 +9,12 @@ class ComposerStaticInitcce85d82663650fa49648e30442b6b48
     public static $prefixLengthsPsr4 = array (
         'k' => 
         array (
-            'khalilouh\\ArchitectureMvc\\' => 26,
+            'khalilouh\\miniframework\\' => 24,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
-        'khalilouh\\ArchitectureMvc\\' => 
+        'khalilouh\\miniframework\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
         ),
