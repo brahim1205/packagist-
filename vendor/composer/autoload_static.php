@@ -9,75 +9,52 @@ class ComposerStaticInitcce85d82663650fa49648e30442b6b48
     public static $prefixLengthsPsr4 = array (
         'k' => 
         array (
-            'khalilouh\\miniframework\\' => 24,
-        ),
-        'T' => 
-        array (
-            'Translate\\' => 10,
-        ),
-        'S' => 
-        array (
-            'Src\\' => 4,
-            'Service\\' => 8,
-        ),
-        'R' => 
-        array (
-            'Repository\\' => 11,
-        ),
-        'E' => 
-        array (
-            'Entity\\' => 7,
-        ),
-        'C' => 
-        array (
-            'Core\\' => 5,
-            'Controller\\' => 11,
-            'Config\\' => 7,
-        ),
-        'A' => 
-        array (
-            'App\\' => 4,
+            'khalil\\Translate\\' => 17,
+            'khalil\\Src\\' => 11,
+            'khalil\\Service\\' => 15,
+            'khalil\\Repository\\' => 18,
+            'khalil\\Entity\\' => 14,
+            'khalil\\Core\\' => 12,
+            'khalil\\Controller\\' => 18,
+            'khalil\\Config\\' => 14,
+            'khalil\\App\\' => 11,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
-        'khalilouh\\miniframework\\' => 
-        array (
-            0 => __DIR__ . '/../..' . '/src',
-        ),
-        'Translate\\' => 
+        'khalil\\Translate\\' => 
         array (
             0 => __DIR__ . '/../..' . '/app/translate',
         ),
-        'Src\\' => 
+        'khalil\\Src\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
         ),
-        'Service\\' => 
+        'khalil\\Service\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src/service',
         ),
-        'Repository\\' => 
+        'khalil\\Repository\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src/repository',
         ),
-        'Entity\\' => 
+        'khalil\\Entity\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src/entity',
         ),
-        'Core\\' => 
+        'khalil\\Core\\' => 
         array (
             0 => __DIR__ . '/../..' . '/app/core',
         ),
-        'Controller\\' => 
+        'khalil\\Controller\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src/controller',
         ),
-        'Config\\' => 
+        'khalil\\Config\\' => 
         array (
             0 => __DIR__ . '/../..' . '/app/config',
         ),
-        'App\\' => 
+        'khalil\\App\\' => 
         array (
             0 => __DIR__ . '/../..' . '/app',
         ),
