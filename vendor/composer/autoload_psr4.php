@@ -6,5 +6,5 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Cherif\\ArchitectureMvc\\' => array($baseDir . '/src'),
+    'khalilouh\\ArchitectureMvc\\' => array($baseDir . '/src'),
 );

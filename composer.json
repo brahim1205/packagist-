@@ -1,8 +1,8 @@
 {
-    "name": "cherif/architecture_mvc",
+    "name": "khalilouh/architecture_mvc",
     "autoload": {
         "psr-4": {
-            "Cherif\\ArchitectureMvc\\": "src/"
+            "khalilouh\\ArchitectureMvc\\": "src/"
         }
     },
     "authors": [
